@@ -22,3 +22,10 @@ Datenformat Beispiel:
 
 zuerst der Spaltenkopf, dann Zeilenkopf
 
+Key | Function
+---|---
+T| Change to trial mode
+N | Change to normal mode
+Ctrl + W | Clear all red blocks/crosses
+Ctrl + B | Set all red blocks/crosses to black
+Ctrl + Z | Undo
