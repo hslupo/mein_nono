@@ -32,4 +32,4 @@ Pfeil runter ↓ | Animation langsamer
 
 
 nicht eindeutig lösbare Rätsel werden mit rotem Hintergrund gezeigt.
-Leideer sind große Rätsel immer noch sehr zeitaufwändig
+Leider sind große Rätsel immer noch sehr zeitaufwändig
