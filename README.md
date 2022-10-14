@@ -22,10 +22,10 @@ Datenformat Beispiel:
 
 zuerst der Spaltenkopf, dann Zeilenkopf
 
-Key | Function
+Taste | Funktion
 ---|---
-T| Change to trial mode
-N | Change to normal mode
-Ctrl + W | Clear all red blocks/crosses
-Ctrl + B | Set all red blocks/crosses to black
-Ctrl + Z | Undo
+a| Animation starten
+Leertaste | Pause an/aus
+Pfeil hoch | Animation schneller
+Pfeil runter | Animation langsamer
+ + oder - | Darstellung größer / kleiner
