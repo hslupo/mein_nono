@@ -28,4 +28,4 @@ a| Animation starten
 Leertaste | Pause an/aus
 Pfeil hoch | Animation schneller
 Pfeil runter | Animation langsamer
- + oder - | Darstellung größer / kleiner
++ oder - | Darstellung größer / kleiner
