@@ -18,6 +18,7 @@ solange ich Dateien auswähle geht das so weiter
 Datenformat Beispiel:
 
 4, 2 1, 1 1,2 ,2
+
 4, 2 2,1, 1, 3
 
 zuerst der Spaltenkopf, dann Zeilenkopf
