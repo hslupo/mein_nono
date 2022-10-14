@@ -9,11 +9,10 @@ eine bessere Lösung zu finden. Der Artikel von Hennie de Harder und ihren Ansat
 und um meine Visualisierung erweitert.
 
 nono.py
-Das Programm lässt mich ein Beispiel-Rätsel auswählen (Ordner Rätsel) und versucht es zu lösen,
-wenn das klappt zeigt es mir das Ergebnisauf dem Bildschirm. Die Entsteheung der Lösung
+Das Programm lässt mich ein Beispiel-Rätsel auswählen (Ordner raetsel) und versucht es zu lösen,
+wenn das klappt zeigt es mir das Ergebnis auf dem Bildschirm. Die Entstehung der Lösung
 kann ich mir dann animiert anzeigen lassen.
-Nach dem schließen des Rätsels bin ich wieder im Dateiauswahl-Dialog,
-solange ich Dateien auswähle geht das so weiter
+Nach dem schließen des Rätsels bin ich wieder im Dateiauswahl-Dialog, solange ich Dateien auswähle geht das so weiter
 
 Datenformat Beispiel:
 
