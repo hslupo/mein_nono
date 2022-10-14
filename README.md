@@ -27,5 +27,6 @@ Taste | Funktion
 a| Animation starten
 Leertaste | Pause an/aus
 Pfeil hoch | Animation schneller
++ oder - | Darstellung größer / kleiner
 Pfeil runter | Animation langsamer
 + oder - | Darstellung größer / kleiner
