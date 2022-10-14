@@ -19,7 +19,7 @@ Datenformat Beispiel:
 4, 2 1, 1 1,2 ,2<br/>
 4, 2 2,1, 1, 3
 
-zuerst der Spaltenkopf, dann Zeilenkopf
+zuerst der Spaltenkopf, dann Zeilenkopf<br/>
 <img width="184" alt="image" src="https://user-images.githubusercontent.com/77671905/195946376-975dcfbe-3040-4910-8437-c10160131889.png">
 
 
