@@ -29,3 +29,7 @@ Leertaste | Pause an/aus
 Pfeil hoch ↑ | Animation schneller
 Pfeil runter ↓ | Animation langsamer
 '+' oder '-' | Darstellung größer / kleiner
+
+
+nicht eindeutig lösbare Rätsel werden mit rotem Hintergrund gezeigt.
+Leideer sind große Rätsel immer noch sehr zeitaufwändig
